@@ -16,7 +16,8 @@ config：configuration class
 entity：entity class  
 controller：Web controller class  
 service：business deal class  
-dao：database access layer    
+dao：database access layer   
+mapper：mapping files
 test：test class  
 utils：tool class  
 
