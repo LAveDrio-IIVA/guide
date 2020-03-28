@@ -29,3 +29,7 @@ utils：tool class
 <name>[project name] - [module name] </name>  
 <description>...</description>  
 ```
+## How to start|stop|restart app
+```
+./switch.sh start|stop|restart
+```
