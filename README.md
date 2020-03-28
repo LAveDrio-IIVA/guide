@@ -6,7 +6,7 @@ Try to be as brief as possible in English, and separate multiple words with "-"
 ## Module naming  
 [project name] - [module name]  
 
-Note: module name: api, web, service, manager  
+Note: module name: web, api, rest, service, manager  
 
 ## Naming of main package structure  
 com.iiva. [project name]. [module name]  
