@@ -1,6 +1,6 @@
 # Naming conventions  
 
-## Project name  
+## Project naming  
 Try to be as brief as possible in English, and separate multiple words with "-"  
 
 ## Module naming  
@@ -8,10 +8,10 @@ Try to be as brief as possible in English, and separate multiple words with "-"
 
 Note: module name: web, api, rest, service, manager  
 
-## Naming of main package structure  
+## Main package structure naming  
 com.iiva. [project name]. [module name]  
 
-## Sub package name  
+## Sub package naming  
 config：configuration class  
 entity：entity class  
 controller：Web controller class  
@@ -21,7 +21,7 @@ mapper：mapping files
 test：test class  
 utils：tool class  
 
-## Naming Maven POM
+## Maven POM naming  
 ```
 <groupId>com.iiva</groupId>  
 <artifactId>[project name] - [module name] </artifactId>  
