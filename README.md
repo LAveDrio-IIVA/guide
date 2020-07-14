@@ -19,7 +19,7 @@ service：business deal class
 dao：database access layer   
 mapper：mapping files
 test：test class  
-utils：tool class  
+util：tool class  
 
 ## Maven POM naming  
 ```
