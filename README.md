@@ -20,7 +20,7 @@ dao：database access layer
 mapper：mapping files
 test：test class  
 util：tool class  
-constant：constant class  
+constant：consts class  
 
 ## Maven POM naming  
 ```
